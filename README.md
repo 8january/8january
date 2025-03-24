@@ -3,7 +3,6 @@
 ## 👨‍💻 Sobre
 Desenvolvedor focado em **backend**, com interesse em **Cybersecurity**. Busco sempre aprender novas tecnologias e aprimorar minhas habilidades para enfrentar desafios em ambientes de desenvolvimento. Tenho experiência no desenvolvimento de sites estáticos e reativos em projetos acadêmicos. Atualmente, estou focado em melhorar meus conhecimentos em algoritmos, estruturas de dados e cibersegurança.
 
-
 ## 🎓 Formação
 
 - Técnico em Informática (2022-2024) - Fundação Matias Machline
