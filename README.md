@@ -1,3 +1,5 @@
+<img src="/mountain.jpeg" alt="Banner" width="100%" />
+
 
 # 👾 Leonardo Brandão do Amarante ━━ Software Developer
 > [O que aconteceu em 8 de janeiro de 1889?](https://operamundi.uol.com.br/politica-e-economia/hoje-na-historia-1889-herman-hollerith-inventa-a-maquina-eletrica-de-contagem/)
