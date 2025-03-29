@@ -24,7 +24,6 @@ Desenvolvedor focado em **backend**, com interesse em **Cybersecurity**. Busco s
 ## 📬 Contato      
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardobrandaoamarante@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/x/)](https://www.linkedin.com/in/x/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://x.com)
 
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
