@@ -8,10 +8,10 @@ Desenvolvedor focado em **backend**, com interesse em **Cybersecurity**. Busco s
 - Técnico em Informática (2022-2024) - Fundação Matias Machline
 - Ciência da Computação  (2025-2028) - Universidade Federal do Amazonas
 
-## 📌 Foco Atual  
+## 📚 Estudando...
 [![studying](https://skillicons.dev/icons?i=go,elixir,py,redis,latex&perline=6)](https://skillicons.dev)
 
-## 🔹 Experiência  
+## 💠 Experiência  
 [![tech](https://skillicons.dev/icons?i=c,cpp,java,php,html,css,js,ts,sass,react,nextjs,nodejs,express,graphql,git,github,vscode,figma,mongo,mysql&perline=10&theme=dark)](https://skillicons.dev)
 
 ## ⚙️ Stack Atual  
