@@ -8,7 +8,7 @@ Desenvolvedor focado em **backend**, com interesse em **Cybersecurity**. Busco s
 - Ciência da Computação  (2025-2028) - Universidade Federal do Amazonas
 
 ## 📚 Estudando...
-[![studying](https://skillicons.dev/icons?i=go,elixir,py,redis,latex&perline=6)](https://skillicons.dev)
+[![studying](https://skillicons.dev/icons?i=go,elixir,latex&perline=6)](https://skillicons.dev)
 
 ## 💠 Experiência  
 [![tech](https://skillicons.dev/icons?i=c,cpp,java,php,html,css,js,ts,sass,react,nextjs,nodejs,express,graphql,git,github,vscode,figma,mongo,mysql&perline=10&theme=dark)](https://skillicons.dev)
