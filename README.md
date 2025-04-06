@@ -1,5 +1,4 @@
 # 👾 Leonardo Brandão do Amarante ━━ Software Developer
-> [O que aconteceu em 8 de janeiro de 1889?](https://operamundi.uol.com.br/politica-e-economia/hoje-na-historia-1889-herman-hollerith-inventa-a-maquina-eletrica-de-contagem/)
 ## 👨‍💻 Sobre
 Desenvolvedor focado em **backend**, com interesse em **Cybersecurity**. Busco sempre aprender novas tecnologias e aprimorar minhas habilidades para enfrentar desafios em ambientes de desenvolvimento. Tenho experiência no desenvolvimento de sites estáticos e reativos em projetos acadêmicos. Atualmente, estou focado em melhorar meus conhecimentos em algoritmos, estruturas de dados e cibersegurança.
 
@@ -22,8 +21,8 @@ Desenvolvedor focado em **backend**, com interesse em **Cybersecurity**. Busco s
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📬 Contato      
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardobrandaoamarante@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/x/)](https://www.linkedin.com/in/x/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardob.developer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/x/)](https://www.linkedin.com/in/leonardo-b-do-amarante-953690339/)
 
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
